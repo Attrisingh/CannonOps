@@ -61,19 +61,19 @@ body {
 
 
 @media (min-width: 768px) {
-   .container {
+   .nav {
      width: auto;
    }
 }
 
 @media (min-width: 992px) {
-   .container {
+   .nav {
      width: auto;
    }
 }
 
 @media (min-width: 1200px) {
-   .container {
+    .nav {
      width: auto;
    }
 }
