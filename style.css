@@ -62,35 +62,6 @@ body {
 }
 
 
-@media (min-width: 768px) {
-   .nav {
-     width: 750px;
-   }
-}
-
-@media (min-width: 992px) {
-   .nav {
-     width: 970px;
-   }
-}
-
-@media (min-width: 1200px) {
-    .nav {
-     width: 1170px;
-   }
-}
-
-@media only screen and (min-width: 600px) {
-  .container.col {
-    width : 50%;
-    float: left;
-  }}
-
-@media only screen and (min-width: 600px) {
-  .container.col {
-    width : 33.3%;
-  }}
-
 .nav :hover {
   color: var(--carnation-pink);
   transition: color 0.3s ease;
